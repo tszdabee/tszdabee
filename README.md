@@ -1,5 +1,7 @@
 # Hi, I'm Tsz. 👋
 
+Welcome to my github page :)
+
 ## Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tszdabee)
 
